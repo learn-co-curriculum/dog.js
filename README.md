@@ -1,6 +1,6 @@
 # Dog.js
 
-Represent a dog as an object. Your dog has two properties, `name` and `age`. There should be three functions that represent this age in years, days, and dog years (every year is 7 dog years).
+Represent a dog as a thing. Your dog has two properties, `name` and `age`. There should be three functions that represent this age in years, days, and dog years (every year is 7 dog years).
 
 The three functions should be attached to the protoype while the `name` and `age` properties should be attached to each new object.
 
